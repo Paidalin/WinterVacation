@@ -95,3 +95,13 @@
 >   - Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
 > 
 > &emsp;&emsp;光子永远滴星
+### 2020.0218
+> &emsp;&emsp;怎么说呢，一言难尽。还有今天发现柿子不大行
+> &emsp;&emsp;前天猛玩怪猎，昨天看了点论文，今天是论文+上课+打工仔，还是简单罗列下这两天看的论文吧T.T
+> - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation
+> - RePr_ Improved Training of Convolutional Filters
+> - Mask Scoring R-CNN
+> - Hybrid Task Cascade for Instance Segmentation
+> - CrowdPose_ Efficient Crowded Scenes Pose Estimation and a New Benchmark
+> 
+> &emsp;&emsp;光子偷懒滴神
